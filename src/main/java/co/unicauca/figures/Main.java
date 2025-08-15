@@ -26,7 +26,7 @@ public class Main {
         for(Figura fig: figuras){
             System.out.println(fig.getName());
             System.out.println("Area: " + fig.calculateArea());
-            System.out.println("Perimetro: " + fig.calculatePerimeter());
+            System.out.println("Perimetro:  " + fig.calculatePerimeter());
 
             System.out.println("---------------------------------------------------");
         }
